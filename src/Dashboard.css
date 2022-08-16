@@ -1,0 +1,11 @@
+.last_created_image {
+    width: 7rem;
+    height: auto;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+}
